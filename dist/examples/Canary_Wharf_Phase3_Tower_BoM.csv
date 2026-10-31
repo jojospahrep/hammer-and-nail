@@ -1,0 +1,13 @@
+Part Number,Description,Specification,Quantity,Unit,Target Unit Rate ($),Max Lead Time (Days)
+BOQ-0001,Portland Cement Type I (CEM I 52.5N),BS EN 197-1 High Early Strength,850,bags,12.50,7
+BOQ-0002,Ready-Mix Concrete M30 / C30/37 Pumpable,BS 8500-2 S3 Slump Chloride Class 0.4,620,m³,145.00,5
+BOQ-0003,Steel Reinforcement Bars 12mm B500B,BS 4449 CARES Approved Cut & Bent,140,ton,850.00,14
+BOQ-0004,Steel Reinforcement Bars 16mm B500B,BS 4449 CARES Approved High Yield,210,ton,875.00,14
+BOQ-0005,Aggregates 20mm Graded Crushed Granite,BS EN 12620 Frost Resistant,480,m³,45.00,7
+BOQ-0006,Sand Fine Grade Washed Concreting,BS EN 13139 0/4mm MP Category,340,m³,38.00,7
+BOQ-0007,Plywood 18mm Marine Grade WBP Formwork,BS 1088 Phenolic Film Faced FSC,320,sheets,65.00,10
+BOQ-0008,Timber Lumber 2x4x8 C24 Kiln Dried,BS EN 14081 Structural Graded,750,pieces,8.50,10
+BOQ-0009,Clay Bricks Standard Facing 215x102.5x65mm,BS EN 771-1 F2 Frost Resistant,85,1000 pcs,420.00,14
+BOQ-0010,Concrete Blocks 8" High Strength 7.3N,BS EN 771-3 Dense Aggregate,190,100 pcs,180.00,10
+BOQ-0011,PVC Pipes 4" Schedule 40 Soil & Drainage,BS EN 1401-1 SN8 Heavy Duty,540,m,15.50,7
+BOQ-0012,Electrical Conduit 1" PVC Heavy Gauge,BS EN 61386-21 LSF Fire Retardant,900,m,4.25,7

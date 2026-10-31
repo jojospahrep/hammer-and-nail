@@ -1,0 +1,9 @@
+SKU,Product Name,Category,Unit,Your Price ($),Stock Status,MOQ
+SKU-10001,Universal Steel Beam UKB 457x191x67 S355JR,Steel & Metal,ton,965.00,Made to Order,10
+SKU-10002,Universal Steel Column UKC 305x305x137 S355J2,Steel & Metal,ton,1025.00,Made to Order,10
+SKU-10003,Steel Reinforcement Bars 12mm B500B,Steel & Metal,ton,815.00,In Stock,5
+SKU-10004,Steel Reinforcement Bars 16mm B500B,Steel & Metal,ton,838.00,In Stock,5
+SKU-10005,Steel Reinforcement Bars 32mm B500C Seismic,Steel & Metal,ton,895.00,In Stock,10
+SKU-10006,Composite Metal Floor Decking 60mm,Steel & Metal,m²,17.80,In Stock,200
+SKU-10007,Welded Steel Fabric Mesh A393,Steel & Metal,sheet,69.50,In Stock,50
+SKU-10008,Structural Bolts M24x80 Grade 8.8 HSFG,Fasteners,100 pcs,129.00,In Stock,10

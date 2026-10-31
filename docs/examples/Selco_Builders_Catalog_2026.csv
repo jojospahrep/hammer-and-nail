@@ -1,0 +1,21 @@
+SKU,Product Name,Category,Unit,Your Price ($),Stock Status,MOQ
+SKU-00001,Portland Cement Type I,Cement & Binders,bag (25kg),12.40,In Stock,100
+SKU-00002,Ready-Mix Concrete M25,Concrete,m³,132.00,In Stock,10
+SKU-00003,Ready-Mix Concrete M30,Concrete,m³,144.50,In Stock,10
+SKU-00004,Steel Reinforcement Bars 10mm,Steel & Metal,ton,835.00,In Stock,5
+SKU-00005,Steel Reinforcement Bars 12mm,Steel & Metal,ton,848.00,In Stock,5
+SKU-00006,Steel Reinforcement Bars 16mm,Steel & Metal,ton,872.00,In Stock,5
+SKU-00007,Aggregates 20mm,Aggregates,m³,44.00,In Stock,20
+SKU-00008,Aggregates 40mm,Aggregates,m³,47.50,In Stock,20
+SKU-00009,Sand Fine Grade,Sand,m³,37.50,In Stock,20
+SKU-00010,Plywood 12mm Marine Grade,Timber & Wood,sheet,49.00,In Stock,50
+SKU-00011,Plywood 18mm Marine Grade,Timber & Wood,sheet,64.00,In Stock,50
+SKU-00012,Timber Lumber 2x4x8,Timber & Wood,piece,8.40,In Stock,100
+SKU-00013,Timber Lumber 2x6x8,Timber & Wood,piece,11.60,In Stock,100
+SKU-00014,Clay Bricks Standard,Masonry,1000 pcs,418.00,In Stock,10
+SKU-00015,Concrete Blocks 6",Masonry,100 pcs,155.00,In Stock,20
+SKU-00016,Concrete Blocks 8",Masonry,100 pcs,179.00,In Stock,20
+SKU-00017,PVC Pipes 2" Schedule 40,Plumbing,m,9.80,In Stock,100
+SKU-00018,PVC Pipes 4" Schedule 40,Plumbing,m,15.20,In Stock,100
+SKU-00019,Electrical Conduit 1" PVC,Electrical,m,4.15,In Stock,200
+SKU-00020,Electrical Wire 12 AWG,Electrical,meter,1.95,In Stock,500
